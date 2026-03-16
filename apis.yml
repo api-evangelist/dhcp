@@ -1,11 +1,23 @@
+aid: dhcp
 name: DHCP
-description: DHCP is a technology or concept used in computing and information technology
-  to address specific technical challenges. It provides capabilities that help practitioners
-  build, manage, or improve systems and processes in their domain.
-url: null
+description: >-
+  Dynamic Host Configuration Protocol (DHCP) is a network management protocol
+  used to automate the process of configuring devices on IP networks. DHCP
+  dynamically assigns IP addresses and other network configuration parameters to
+  each device on a network, enabling them to communicate with other IP networks.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- DHCP
-created: '2025'
-modified: '2025'
+  - DHCP
+  - Networking
+  - Protocol
+  - IP Addresses
+url: https://www.ietf.org/rfc/rfc2131.txt
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
