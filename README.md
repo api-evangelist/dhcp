@@ -1,22 +1,28 @@
 # DHCP (dhcp)
-Dynamic Host Configuration Protocol (DHCP) is a network management protocol used to automate the process of configuring devices on IP networks. DHCP dynamically assigns IP addresses and other network configuration parameters to each device on a network, enabling them to communicate with other IP networks.
+Dynamic Host Configuration Protocol (DHCP) is a network management protocol used to automate the process of configuring devices on IP networks. DHCP dynamically assigns IP addresses and other network configuration parameters to each device on a network, enabling them to communicate with other IP networks. Defined in IETF RFC 2131, the protocol supports automatic, dynamic, and manual allocation modes and uses message types including DHCPDISCOVER, DHCPOFFER, DHCPREQUEST, DHCPACK, DHCPNAK, DHCPDECLINE, DHCPRELEASE, and DHCPINFORM. DHCP builds on BOOTP (RFC 951) and is supplemented by RFCs covering options and clarifications.
 
 **URL:** [Visit APIs.json URL](https://www.ietf.org/rfc/rfc2131.txt)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
 ## Tags:
 
- - DHCP, Networking, Protocol, IP Addresses
+- BOOTP, DHCP, IETF, IP Addresses, Lease Management, Network Configuration, Networking, Protocol, RFC 2131, TCP/IP
+
+## Common Properties
+
+- [Specification](https://www.ietf.org/rfc/rfc2131.txt)
+- [BOOTP RFC](https://www.ietf.org/rfc/rfc951.txt)
+- [DHCP Options RFC](https://www.ietf.org/rfc/rfc2132.txt)
 
 ## Timestamps
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-01-01
+- **Modified:** 2026-04-28
 
 ## Maintainers
 
