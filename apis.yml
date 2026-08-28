@@ -11,6 +11,17 @@ description: >-
   builds on BOOTP (RFC 951) and is supplemented by RFCs covering options and
   clarifications.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
