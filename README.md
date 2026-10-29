@@ -1,4 +1,4 @@
-# DHCP (dhcp)
+# dhcp
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,33 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Dynamic Host Configuration Protocol (DHCP) is a network management protocol used to automate the process of configuring devices on IP networks. DHCP dynamically assigns IP addresses and other network configuration parameters to each device on a network, enabling them to communicate with other IP networks. Defined in IETF RFC 2131, the protocol supports automatic, dynamic, and manual allocation modes and uses message types including DHCPDISCOVER, DHCPOFFER, DHCPREQUEST, DHCPACK, DHCPNAK, DHCPDECLINE, DHCPRELEASE, and DHCPINFORM. DHCP builds on BOOTP (RFC 951) and is supplemented by RFCs covering options and clarifications.
+## dhcp on APIs.io
 
-**URL:** [Visit APIs.json URL](https://www.ietf.org/rfc/rfc2131.txt)
+Everything profiled for dhcp is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dhcp/](https://apis.io/providers/dhcp/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Not yet rated. See [apis.io/providers/dhcp/](https://apis.io/providers/dhcp/).
 
-## Tags:
+## How this profile is made
 
-- BOOTP, DHCP, IETF, IP Addresses, Lease Management, Network Configuration, Networking, Protocol, RFC 2131, TCP/IP
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Common Properties
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for dhcp: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- [Specification](https://www.ietf.org/rfc/rfc2131.txt)
-- [BOOTP RFC](https://www.ietf.org/rfc/rfc951.txt)
-- [DHCP Options RFC](https://www.ietf.org/rfc/rfc2132.txt)
+## Open an issue
 
-## Timestamps
-
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dhcp/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
